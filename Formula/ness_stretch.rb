@@ -1,7 +1,7 @@
 # Documentation: https://docs.brew.sh/Formula-Cookbook
 #                https://rubydoc.brew.sh/Formula
 # PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
-class ness_stretch < Formula
+class NessStretch < Formula
   desc “NessStretch time stretching algorithm written in Rust"
   homepage "https://github.com/spluta/ness_stretch"
   url "https://github.com/spluta/ness_stretch/releases/download/0.1.0/ness_stretch.tar.gz"
