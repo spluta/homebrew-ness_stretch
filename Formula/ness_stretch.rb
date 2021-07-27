@@ -5,7 +5,7 @@ class NessStretch < Formula
   desc "NessStretch time stretching algorithm written in Rust"
   homepage "https://github.com/spluta/TimeStretch"
   url "https://github.com/spluta/TimeStretch/releases/download/0.3.0/ness_stretch-mac.tar.gz"
-  sha256 "51902763e194693c41cf731e1d41251a0b760091ea41f7ad4110445046c4ef20"
+  sha256 "36082595e24fa794c3c10b1be63da959e9c223b910802b3500cd2090c4ee628f"
   version "0.3.0"
 
   def install
